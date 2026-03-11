@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, bienvenido a mi repositorio. Aqui anexo mi hoja de vida. 
 
 <!--
 **Lel-del/Lel-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
